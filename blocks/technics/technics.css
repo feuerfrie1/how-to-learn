@@ -1,0 +1,9 @@
+.technics {
+    width: 80%;
+    display: flex;
+    padding-top: 100px;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

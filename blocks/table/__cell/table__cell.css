@@ -1,0 +1,12 @@
+.table__cell p:last-of-type {
+    padding-top: 20px;
+}
+
+.table__cell p:first-of-type {
+    padding-top: 0;
+}
+
+.table__cell {
+    margin-top: 60px;
+    width: 250px;
+}

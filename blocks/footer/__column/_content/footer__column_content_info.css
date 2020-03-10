@@ -1,0 +1,11 @@
+.footer__column_content_info {
+    display: flex;
+    flex-basis: auto;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-bottom: 16px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    text-decoration: none;
+}
